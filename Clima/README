@@ -1,4 +1,4 @@
-## Datos de clima para ingresar al modelo
+## Datos de clima para ingresar al modelo 
 
 Para cada variable climática necesaria para el modelo SWAT, hay que preparar 2 tipos de archivos txt:
 1) Un archivo con la descripción de cada estación de meteorológica:
@@ -23,7 +23,7 @@ Descripción de la o las estaciones meteorológicas. En este caso se utilizó IN
 - El archivo txt tiene que tener el nombre de la estación meteorologica
 
 En este caso se utilizó una estación climatológica INIA Las Brujas para datos de humedad, radiación solar, temperatura y velocidad de viento (h1,s1,t1,w1). 
-Se utilizaron 46 pluviómetros de INUMET.
+Se utilizaron 46 pluviómetros de INUMET cuyos datos están en la carpeta pcp_nivel5
 
 |Archivo | Dato | Tipo | 
 |h1.txt |Humedad relativa (porcentaje)|2| 

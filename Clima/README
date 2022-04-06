@@ -31,3 +31,5 @@ Se utilizaron 46 pluviómetros de INUMET cuyos datos están en la carpeta pcp_ni
 |t1.txt |Temperatura °C|2| 
 |w1.txt |Velocidad viento m s-1|2| 
 |p1.txt a p46.txt|Precipitación diaria mm|2|
+
+![estaciones](/inumet_station_imfia_dinagua.jpg)

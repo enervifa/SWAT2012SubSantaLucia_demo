@@ -30,4 +30,4 @@ Se utilizaron 46 pluviómetros de INUMET.
 |s1.txt |Radiación Solar kJ m-2 dia-1|2| 
 |t1.txt |Temperatura °C|2| 
 |w1.txt |Velocidad viento m s-1|2| 
-|p1.txt - p46.txt|Precipitación diaria mm|2|
+|p1.txt a p46.txt|Precipitación diaria mm|2|
